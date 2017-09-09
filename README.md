@@ -10,3 +10,6 @@ Differnent approaches to compress and accelerate CNNs
 - Shared_LeNet: LeNet that shares weight in Conv|Dense Kernels.
 - Bin_LeNet: LeNet that has binary weights.
 - Xnor_LeNet: LeNet that has binary weights and activations.
+
+## Coming Soon:
+- XNOR Convolution GPU Kernel.
