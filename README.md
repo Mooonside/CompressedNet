@@ -1,6 +1,10 @@
 # CompressedNet
 Differnent approaches to compress and accelerate CNNs
 
+## References:
+- Deep Compression-Compressing Deep Neural Networks with Pruning%2c Trained Quantization and Huffman Coding.
+- XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.
+
 ## Stucture:
 - ./Utils stores different conv|dense layers used in compressed nets.
 - ./CUDA stores the cuda kernel for custom ops/
