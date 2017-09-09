@@ -2,7 +2,7 @@
 Differnent approaches to compress and accelerate CNNs
 
 ## References:
-- Deep Compression-Compressing Deep Neural Networks with Pruning%2c Trained Quantization and Huffman Coding.
+- Deep Compression-Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.
 - XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.
 
 ## Stucture:
