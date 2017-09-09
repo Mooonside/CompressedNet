@@ -2,8 +2,8 @@
 Differnent approaches to compress and accelerate CNNs
 
 ## Stucture:
--./Utils stores different conv|dense layers used in compressed nets.
--./CUDA stores the cuda kernel for custom ops/
+- ./Utils stores different conv|dense layers used in compressed nets.
+- ./CUDA stores the cuda kernel for custom ops/
 
 ## Models:
 - Pruned_LeNet : LeNet that prunes unnecessary connections.
